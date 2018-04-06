@@ -1,0 +1,9 @@
+Prod: D12SC1ETLAP1.dallascounty.org
+
+205.AIS_Dev
+
+
+ D12SRECETLINTS is the test ETL server
+
+
+C1CRSQL205\CRDB2I5
